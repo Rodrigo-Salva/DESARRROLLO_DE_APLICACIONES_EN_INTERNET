@@ -1,4 +1,3 @@
-
 # 🌐 Desarrollo de Aplicaciones en Internet  
 ## 🧪 Evaluación de Laboratorio 1 – Sección D
 
